@@ -3,7 +3,7 @@
 This is a small video game made in Unity. It is part of a task within the subject of game programming of the degree in Engineering. It is a game that aims to escape from the dungeon without dying on the way.
 
 <p align="center">
-  <img width="368" height="300" src="https://user-images.githubusercontent.com/18056187/54086217-c0ece380-4347-11e9-9d63-258967273caa.png">
+  <img width="398" height="330" src="https://user-images.githubusercontent.com/18056187/54086217-c0ece380-4347-11e9-9d63-258967273caa.png">
 </p>
 
 
