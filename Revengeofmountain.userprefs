@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControlOjo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ControlOjo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VidaJugador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlJugador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VolverInicio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CargarArea.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IniciarAplicacion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Comienzo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MostrarScores.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CargarFinalBueno.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlCamara.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
